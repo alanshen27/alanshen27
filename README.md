@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Alan!
 
-<!--
-**alanshen27/alanshen27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student in switzerland with a strong interest in coding, open-source projects, and technology.
 
-Here are some ideas to get you started:
+## 🚀 Projects & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SOI**: Working to qualify for the Swiss Olympiad in Informatics
+- **Music Production**: See some of my music on my [youtube channel](https://www.youtube.com/@alanshen27)
+
+## 💡 Skills & Tools
+
+- **Programming Languages**: Python, C++, JavaScript
+- **Web Development**: React, Next.js, Prisma, Visual Studio Code, Figma
+- **Technical Knowledge**: Data structures and algorithms, constants in time and space complexity.
