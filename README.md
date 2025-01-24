@@ -5,7 +5,7 @@ I'm a student in switzerland with a strong interest in coding, open-source proje
 ## 🚀 Projects & Interests
 
 - **SOI**: Working to qualify for the Swiss Olympiad in Informatics
-- **Music Production**: See some of my music on my [youtube channel](https://www.youtube.com/@alanshen27)
+- **Music Production**: See some of my music on my [youtube channel](https://www.youtube.com/@alanmusic27)
 
 ## 💡 Skills & Tools
 
