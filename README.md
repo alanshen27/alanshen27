@@ -30,10 +30,12 @@ AI-powered note-taking and transcription tool.
 🏆 Winner of **HackHarvard China 2025 — Best Overall Hack**
 
 ### 🔬 Synapse  
-Neural network visualization + analysis platform.
+Emotionally aware messaging app, with voice replication capabilities. Augments digital communication.
+Built in 36 hours at **HackHarvard 2025: Compile the Decade**
 
 ### 🗂️ Hive  
-Collaborative project management and team coordination tool.
+Networking app for like-minded students, empowers underprivileged students by providing a community as resource.
+🏆 3rd place (Coding Track) of **Empower 3.0** 
 
 ---
 
