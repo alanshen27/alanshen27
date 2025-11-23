@@ -1,6 +1,7 @@
 # Hi, I'm Alan Shen 👋
 
 **SOI + USACO | 2× Founder (Studious, Scribe)**  
+
 Tartegnin, Vaud, Switzerland  
 
 High school student at Institut Le Rosey with achievements in competitive programming (USACO Silver, aiming for Gold), hackathons (1st place HackHarvard China 2025), VEX Robotics, and academic AI research (pragmatics assessment). Passionate about computer science, startups, music, and competitive swimming.
@@ -103,7 +104,8 @@ Highlights:
 
 - **ABRSM Grade 8 Piano** — Performance  
 - **ABRSM Grade 8 Violin** — Performance  
-- **TOEFL iBT** — Score: 117/120  
+- **TOEFL iBT** — Score: 117/120
+- **SAT** – Score: 1530/1600
 - **Building Biosensor Software for Public Health Research** (Pre-college course)
 
 ---
