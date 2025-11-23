@@ -1,112 +1,84 @@
-# Hi, I'm Alan Shen 👋
+<h1 align="center">Hi, I'm Alan Shen 👋</h1>
 
-**SOI + USACO | 2× Founder (Studious, Scribe)**  
-
-Tartegnin, Vaud, Switzerland  
-
-High school student at Institut Le Rosey with achievements in competitive programming (USACO Silver, aiming for Gold), hackathons (1st place HackHarvard China 2025), VEX Robotics, and academic AI research (pragmatics assessment). Passionate about computer science, startups, music, and competitive swimming.
+<p align="center">
+  <strong>SOI + USACO • 2× Founder (Studious, Scribe) • Developer @ Switzerland</strong><br/>
+  High school student at Institut Le Rosey with achievements in competitive programming,
+  AI research, hackathons, and robotics. Passionate about building real products fast.
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 About Me
 
-### 🧠 Studious  
-A modern learning management platform with AI-powered insights, class management, and assignment workflows.  
-**Role:** Founder (2023–Present)
+- 🎓 High school student @ **Institut Le Rosey** (IB Diploma, 2022–2027)  
+- 🖥️ Developer & founder of **Studious** and **Scribe**  
+- 🏆 **1st Place — HackHarvard China 2025 (Best Overall Hack)**  
+- 🤖 Engineer & Programmer @ **VEX Robotics 15520X**  
+- 🥇 Competitive swimmer with **12 medals** (7 Gold | 3 Silver | 2 Bronze)  
+- 💡 Passionate about CS, AI, startups, and building usable tech  
 
-### ✍️ Scribe  
-AI-powered note-taking and audio transcription platform.  
-🏆 **Winner – HackHarvard China 2025 (“Best Overall Hack”)**  
-**Role:** SWE & Co-founder (2025–Present)
+---
+
+## 🧠 What I Build
+
+### 🧩 Studious — *Founder*  
+Modern LMS with AI-powered insights, real-time collaboration, and scalable infra.  
+Tech: Next.js, tRPC, Supabase, Render, Vercel
+
+### ✍️ Scribe — *Co-Founder & SWE*  
+AI-powered note-taking and transcription tool.  
+🏆 Winner of **HackHarvard China 2025 — Best Overall Hack**
 
 ### 🔬 Synapse  
-Neural network visualization and analysis platform.
+Neural network visualization + analysis platform.
 
 ### 🗂️ Hive  
-Collaborative project management system.
+Collaborative project management and team coordination tool.
 
 ---
 
 ## 💼 Experience
 
 ### **Founder — Studious LMS**  
-*Sept 2023 – Present*  
-- Led frontend development (Next.js)  
-- Led backend development (tRPC, React)  
-- Designed scalable infra: sockets (Pusher.js), Supabase read replicas, Render load balancer, Vercel routing optimization  
-- Created the *Studious School Development Program* to support underprivileged communities  
+📍 2023–Present  
+- Built frontend (Next.js) + backend (tRPC + React)  
+- Designed scalable cloud infra (sockets, replicas, load balancing)  
+- Created the *Studious School Development Program* for underserved communities  
 
 ---
 
 ### **Co-founder & SWE — Scribe**  
-*Aug 2025 – Present*  
-- Frontend + backend development for AI-driven workflows  
-- Led frontend redesign  
-- Built backend architecture & inference pipelines  
-- Helped win **1st Place Overall** at HackHarvard China 2025  
+📍 2025–Present  
+- Full-stack development with AI-driven workflows  
+- Redesigned frontend for speed + clarity  
+- Contributed to inference architecture  
+- Helped win 1st place at **HackHarvard China 2025**
 
 ---
 
 ### **Engineer & Programmer — VEX Robotics 15520X**  
-*Sept 2025 – Present*  
-- Assisted in robot design & fabrication  
-- Engineered autonomous operation mode  
-- Implemented human–robot controller interface  
+📍 2025–Present  
+- Engineered autonomous mode  
+- Built control interface for human operators  
+- Assisted robot design + navigation  
 
 ---
 
 ### **Competitive Swimmer — Institut Le Rosey**  
-*Sept 2023 – Present*  
-**Total Medals: 12 (7 Gold | 3 Silver | 2 Bronze)**  
-Events: IM, Freestyle (100m, relay), Medley Relay, Open Water  
-
-Highlights:  
-- **MLS 2025** – Gold (100m Free, 200m Free Relay, 200m Medley Relay); Silver (IM)  
-- **ADISR 2024** – Bronze (100m Free); Gold (IM Relay, Freestyle Relay)  
-- **MLS 2024** – Silver (50×4 IM Relay – Free leg)  
-- **MLS 2024 Lake Swim Relay** – Team 1st Place  
-- **ADISR 2023** – 3× Gold + New School Record
+📍 2023–Present  
+🏅 **12 Medals:** 7 Gold | 3 Silver | 2 Bronze  
+Events: IM, Freestyle (100m, Relay), Medley Relay, Open Water  
+Highlights: new school record, multiple relay golds
 
 ---
 
-## 🎓 Education
-
-**Institut Le Rosey** — IB Diploma (2022–2027)  
-**Singapore American School** (2014–2022)
-
----
-
-## 🏆 Awards & Honors
+## 🏆 Honours & Awards
 
 - 🥇 **HackHarvard China 2025 — 1st Place (Overall Winner)**  
-- 🥉 **Empower 3.0 Hacks — 3rd Place (Coding Track)**  
-- ⭐ **USACO Silver**  
-- 🎟️ **HackHarvard 2025 — Compile the Decade Invitational (2nd Place)**  
-
----
-
-## 🛠️ Skills
-
-### **Top Skills**
-- Business Ownership  
-- Start-up Leadership  
-- Start-up Management  
-
-### **Technical Skills**
-- Next.js, React, TypeScript  
-- tRPC, Node.js  
-- Competitive programming (SOI + USACO)  
-- Infrastructure design (load balancing, replication, real-time sockets)
-
----
-
-## 📄 Certifications
-
-- **ABRSM Grade 8 Piano** — Performance  
-- **ABRSM Grade 8 Violin** — Performance  
-- **TOEFL iBT** — Score: 117/120
-- **SAT** – Score: 1530/1600
-- **Building Biosensor Software for Public Health Research** (Pre-college course)
+- ⭐ **HackHarvard 2025 — Compile the Decade Invitational (2nd Place)**  
+- 🥉 **Empower 3.0 Hacks — 3rd Place**  
+- 🐮 **USACO Silver– ranked 603 / 1883 of pre-college competitors**
+- 🛠️ **SOI Round 2 Competitor**
 
 ---
 
@@ -114,19 +86,43 @@ Highlights:
 
 **Training AI for Pragmatics Assessment**  
 Xiao, F., Taguchi, N., Li, S., & **Shen, A.**  
-Presented at **CALICO 2025**, San Diego, CA.  
-(May 2025)
+Presented at **CALICO 2025**, San Diego, CA.
+
+---
+
+## 🛠️ Skills
+
+### 🧰 Technical  
+- Next.js, React, TypeScript  
+- Node.js, tRPC, Supabase  
+- AI/ML workflows, inference infra  
+- Competitive programming (graphs, DP, BFS/DFS)
+
+### 🚀 Leadership  
+- Business ownership  
+- Startup formation  
+- Team & project management  
+
+---
+
+## 🪪 Certifications
+
+- **ABRSM Grade 8 Piano** (Performance)  
+- **ABRSM Grade 8 Violin** (Performance)  
+- **TOEFL iBT 117/120**
+- **SAT: 1530/1600**
+- **Biosensor Software for Public Health Research (Pre-college)**  
 
 ---
 
 ## 📬 Contact
 
-- ✉️ **Email:** alan.shen27@gmail.com  
-- 🔗 **LinkedIn:** www.linkedin.com/in/alanshen27  
-- 🌐 **Website:** www.alanshen.me  
-- 🏫 **Studious:** www.studious.sh  
-- 📝 **Scribe:** scribe.study  
+**Email:** alan.shen27@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/alanshen27  
+**Website:** https://alanshen.me  
+**Studious:** https://studious.sh  
+**Scribe:** https://scribe.study  
 
 ---
 
-© 2025 **Alan Shen**
+<p align="center">© 2025 Alan Shen — Building cool things. Always learning.</p>
