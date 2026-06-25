@@ -1,130 +1,120 @@
-<h1 align="center">Hi, I'm Alan Shen 👋</h1>
+# Hi, I'm Alan Shen 👋
 
-<p align="center">
-  <strong>SOI + USACO • 2× Founder (Studious, Scribe) • Developer @ Switzerland</strong><br/>
-  High school student at Institut Le Rosey with achievements in competitive programming,
-  AI research, hackathons, and robotics. Passionate about building real products fast.
-</p>
+I'm a high school student at **Institut Le Rosey** building at the intersection of **computer science, education, and artificial intelligence**.
+
+I like turning messy learning problems into scalable software: LMS platforms, AI study workflows, research tools, infrastructure, and human-AI interaction systems. I'm especially interested in how intelligent systems can personalize learning and make high-quality education more accessible.
 
 ---
 
-## 🚀 About Me
+## 🚀 What I'm Building
 
-- 🎓 High school student @ **Institut Le Rosey** (IB Diploma, 2022–2027)  
-- 🖥️ Developer & founder of **Studious** and **Scribe**  
-- 🏆 **1st Place — HackHarvard China 2025 (Best Overall Hack)**  
-- 🤖 Engineer & Programmer @ **VEX Robotics 15520X**  
-- 🥇 Competitive swimmer with **12 medals** (7 Gold | 3 Silver | 2 Bronze)  
-- 💡 Passionate about CS, AI, startups, and building usable tech  
+### [Studious](https://www.studious.sh)
 
----
+Founder of a modern learning management platform built for digital-first classrooms.
 
-## 🧠 What I Build
+- Built full-stack features with **Next.js**, **tRPC**, **React**, and **Supabase**
+- Designed scalable infrastructure using real-time systems, read replication, load balancing, and cloud deployment
+- Created the **Studious School Development Program** to support modern learning in underprivileged communities
 
-### 🧩 Studious — *Founder*  
-Modern LMS with AI-powered insights, real-time collaboration, and scalable infra.  
-Tech: Next.js, tRPC, Supabase, Render, Vercel
+### [Scribe](https://scribe.study)
 
-### ✍️ Scribe — *Co-Founder & SWE*  
-AI-powered note-taking and transcription tool.  
-🏆 Winner of **HackHarvard China 2025 — Best Overall Hack**
+Co-founder and software engineer building AI-driven learning workflows.
 
-### 🔬 Synapse  
-Emotionally aware messaging app, with voice replication capabilities. Augments digital communication.
-Built in 36 hours at **HackHarvard 2025: Compile the Decade**
+- Won **1st Place Overall at HackHarvard China 2025**
+- Led frontend redesign and backend infrastructure
+- Worked on AI inference architecture and product design
 
-### 🗂️ Hive  
-Networking app for like-minded students, empowers underprivileged students by providing a community as resource.
-🏆 3rd place (Coding Track) of **Empower 3.0** 
+### Segfault
 
----
+Building a developer-focused community and technical ecosystem.
 
-## 💼 Experience
+### Luduan.ai
 
-### **Founder — Studious LMS**  
-📍 2023–Present  
-- Built frontend (Next.js) + backend (tRPC + React)  
-- Designed scalable cloud infra (sockets, replicas, load balancing)  
-- Created the *Studious School Development Program* for underserved communities  
+Frontend and UI/UX design contributor.
+
+- Helped ideate frontend rebuild architecture
+- Contributed to migration work for a platform serving **30+ U.S. institutions**
 
 ---
 
-### **Co-founder & SWE — Scribe**  
-📍 2025–Present  
-- Full-stack development with AI-driven workflows  
-- Redesigned frontend for speed + clarity  
-- Contributed to inference architecture  
-- Helped win 1st place at **HackHarvard China 2025**
+## 🧠 Technical Interests
+
+- Full-stack software engineering
+- Machine learning systems
+- Human-AI interaction
+- Distributed infrastructure
+- Educational technology
+- AI-assisted learning platforms
+- Robotics and autonomous systems
 
 ---
 
-### **Engineer & Programmer — VEX Robotics 15520X**  
-📍 2025–Present  
-- Engineered autonomous mode  
-- Built control interface for human operators  
-- Assisted robot design + navigation  
+## 🛠️ Tech Stack
+
+```ts
+const alan = {
+  languages: ["TypeScript", "JavaScript", "Python", "C++"],
+  frontend: ["Next.js", "React", "Tailwind CSS"],
+  backend: ["tRPC", "Node.js", "Prisma"],
+  infra: ["Supabase", "PostgreSQL", "Vercel", "Render", "Pusher"],
+  interests: ["AI/ML", "EdTech", "Robotics", "Distributed Systems", "Human-AI Interaction"]
+}
+```
 
 ---
 
-### **Competitive Swimmer — Institut Le Rosey**  
-📍 2023–Present  
-🏅 **12 Medals:** 7 Gold | 3 Silver | 2 Bronze  
-Events: IM, Freestyle (100m, Relay), Medley Relay, Open Water  
-Highlights: new school record, multiple relay golds
+## 🏆 Awards & Recognition
+
+- 🥇 **1st Place Overall** — HackHarvard China 2025
+- 🥉 **3rd Place** — Empower 3.0 Hacks, Coding Track
+- 🥈 **USACO Gold Division**
+- 🤖 **VEX Robotics Excellence Award** — Worlds Qualifier 2026
+- 🧮 **2nd Place** — Swiss Group of International Schools Mathematics Competition 2025
+- 🎓 Research contributor with forthcoming work through **Cambridge University Press**
+- 🎻 ABRSM Grade 8 Piano & Violin
 
 ---
 
-## 🏆 Honours & Awards
+## 🤖 Robotics
 
-- 🥇 **HackHarvard China 2025 — 1st Place (Overall Winner)**  
-- ⭐ **HackHarvard 2025 — Compile the Decade Invitational (2nd Place)**  
-- 🥉 **Empower 3.0 Hacks — 3rd Place**  
-- 🐮 **USACO Silver– ranked 603 / 1883 of pre-college competitors**
-- 🛠️ **SOI Round 2 Competitor**
+**VEX Robotics Engineer & Programmer — 15520X**
 
----
-
-## 📚 Publications & Presentations
-
-**Training AI for Pragmatics Assessment**  
-Xiao, F., Taguchi, N., Li, S., & **Shen, A.**  
-Presented at **CALICO 2025**, San Diego, CA.
+- Qualified for the **VEX Robotics World Championship** through the Excellence Award at Alpine Robo Games 2026
+- Ranked **4th Skills** and **7th Overall** at the Swiss Regional Competition
+- Engineered autonomous control mode
+- Programmed human-control interfaces for competition robotics
 
 ---
 
-## 🛠️ Skills
+## 📚 Research
 
-### 🧰 Technical  
-- Next.js, React, TypeScript  
-- Node.js, tRPC, Supabase  
-- AI/ML workflows, inference infra  
-- Competitive programming (graphs, DP, BFS/DFS)
+I'm involved in research on AI-based pragmatics assessment and AI-enhanced pedagogy, including forthcoming work connected to Cambridge University Press.
 
-### 🚀 Leadership  
-- Business ownership  
-- Startup formation  
-- Team & project management  
+Selected work includes:
+
+- **API endpoint and its value in Chinese international education**
+- **Luduan.ai: A System Solution to AI-Enhanced Pedagogy**
+- **Training AI for Pragmatics Assessment**
 
 ---
 
-## 🪪 Certifications
+## 🏊 Outside of Code
 
-- **ABRSM Grade 8 Piano** (Performance)  
-- **ABRSM Grade 8 Violin** (Performance)  
-- **TOEFL iBT 117/120**
-- **SAT: 1530/1600**
-- **Biosensor Software for Public Health Research (Pre-college)**  
+I'm also a competitive swimmer and musician.
 
----
-
-## 📬 Contact
-
-**Email:** alan.shen27@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/alanshen27  
-**Website:** https://alanshen.me  
-**Studious:** https://studious.sh  
-**Scribe:** https://scribe.study  
+- **2× Swimming MVP** at Le Rosey
+- **14 total medals**: 8 Gold, 4 Silver, 2 Bronze
+- Events: freestyle, individual medley, relays, and open water
+- **ABRSM Grade 8** Piano & Violin
 
 ---
 
-<p align="center">© 2025 Alan Shen — Building cool things. Always learning.</p>
+## 📫 Contact
+
+- Website: [alanshen.me](https://www.alanshen.me)
+- LinkedIn: [linkedin.com/in/alanshen27](https://www.linkedin.com/in/alanshen27)
+- Email: [alan.shen27@gmail.com](mailto:alan.shen27@gmail.com)
+
+---
+
+> Building tools for learning, research, and human-AI collaboration.
