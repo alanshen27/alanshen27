@@ -11,25 +11,25 @@
 
 ## 👋 Hi, I'm Alan
 
-I'm a student in Rolle, Switzerland, and the founder of <a href="https://www.studious.sh">Studious</a> and <a href="https://scribe.study">Scribe</a>. Beyond those, I build side projects on purpose: games, developer tools, machine learning experiments, and instruments you play with your whole body.
+I'm a student in Rolle, Switzerland, and the founder of <a href="https://www.studious.sh">Studious</a> and <a href="https://scribe.study">Scribe</a>. Outside of those I mostly make side projects: small games, dev tools, ML stuff, and whatever I get curious about.
 
 ## 🔭 Currently Building
 
-- <a href="https://github.com/alanshen27/museblet"><b>Inkform</b></a>: A full-body instrument. Slow hands brush a guqin, a fast fist lands a strike, and a kick tears red ink across the screen.
-- <a href="https://github.com/alanshen27/aviata"><b>Aviata</b></a>: Detects private-jet empty legs from ADS-B data using XGBoost and an LSTM.
-- <a href="https://github.com/alanshen27/responder"><b>Responder</b></a>: A 3D emergency dispatch game where callers lie, fires spread, and the budget bleeds.
-- <a href="https://ffnn-viz.vercel.app"><b>FFNN-Viz</b></a>: An interactive visualiser that shows a feed-forward neural network at work.
+- <a href="https://github.com/alanshen27/museblet"><b>Inkform</b></a>: A webcam instrument where your body movements trigger Chinese instrument sounds and ink-style visuals. Some of the moves come from Sanda.
+- <a href="https://github.com/alanshen27/aviata"><b>Aviata</b></a>: Uses ADS-B flight data to guess which private jet flights are empty legs. XGBoost plus an LSTM.
+- <a href="https://github.com/alanshen27/responder"><b>Responder</b></a>: A 3D 911 dispatch game. You take calls, some of them fake, and decide which units to send.
+- <a href="https://ffnn-viz.vercel.app"><b>FFNN-Viz</b></a>: A visualiser for small feed-forward neural nets. You can step through a forward pass and see the math.
 
 ## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top"><a href="https://www.studious.sh"><b>Studious</b></a><br/>A modern LMS for schools, live since 2023.</td>
-    <td width="50%" valign="top"><a href="https://scribe.study"><b>Scribe</b></a><br/>An AI study assistant that teaches how to learn, not just answers.</td>
+    <td width="50%" valign="top"><a href="https://www.studious.sh"><b>Studious</b></a><br/>An LMS for schools. It's been live since 2023.</td>
+    <td width="50%" valign="top"><a href="https://scribe.study"><b>Scribe</b></a><br/>An AI study app. It turns your notes into study sessions, quizzes and guides.</td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://github.com/alanshen27/notate"><b>Notate</b></a><br/>Sketch on a piano roll; a Transformer continues it and a custom synth plays it back.</td>
-    <td valign="top"><a href="https://github.com/alanshen27/foundry"><b>Foundry</b></a><br/>Takes a physical product from brief to CAD, PCB, and checkout.</td>
+    <td valign="top"><a href="https://github.com/alanshen27/notate"><b>Notate</b></a><br/>You write a few notes on a piano roll, a Transformer continues them, and my own synth plays it back.</td>
+    <td valign="top"><a href="https://github.com/alanshen27/foundry"><b>Foundry</b></a><br/>An AI workspace for hardware projects: brief, CAD, PCB, firmware and a store page.</td>
   </tr>
 </table>
 
@@ -37,16 +37,16 @@ I'm a student in Rolle, Switzerland, and the founder of <a href="https://www.stu
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top"><a href="https://scribe.study"><img src="./assets/screens/scribe.jpg" alt="Scribe: Picking up a Chemistry HL study session" width="100%" /></a><br/><sub><b>Scribe</b> · Picking up a Chemistry HL study session</sub></td>
-    <td width="50%" align="center" valign="top"><a href="https://github.com/alanshen27/foundry"><img src="./assets/screens/foundry.jpg" alt="Foundry: Firmware, 3D model, and circuit for one device, side by side" width="100%" /></a><br/><sub><b>Foundry</b> · Firmware, 3D model, and circuit for one device, side by side</sub></td>
+    <td width="50%" align="center" valign="top"><a href="https://scribe.study"><img src="./assets/screens/scribe.jpg" alt="Scribe: picking up a study session" width="100%" /></a><br/><sub><b>Scribe</b>: picking up a study session</sub></td>
+    <td width="50%" align="center" valign="top"><a href="https://github.com/alanshen27/foundry"><img src="./assets/screens/foundry.jpg" alt="Foundry: firmware, 3D model and circuit for a button box" width="100%" /></a><br/><sub><b>Foundry</b>: firmware, 3D model and circuit for a button box</sub></td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top"><a href="https://www.studious.sh"><img src="./assets/screens/studious.jpg" alt="Studious: A teacher dashboard mid-week" width="100%" /></a><br/><sub><b>Studious</b> · A teacher dashboard mid-week</sub></td>
-    <td width="50%" align="center" valign="top"><a href="https://github.com/alanshen27/responder"><img src="./assets/screens/responder.jpg" alt="Responder: A gas leak across the city map" width="100%" /></a><br/><sub><b>Responder</b> · A gas leak across the city map</sub></td>
+    <td width="50%" align="center" valign="top"><a href="https://www.studious.sh"><img src="./assets/screens/studious.jpg" alt="Studious: the teacher dashboard" width="100%" /></a><br/><sub><b>Studious</b>: the teacher dashboard</sub></td>
+    <td width="50%" align="center" valign="top"><a href="https://github.com/alanshen27/responder"><img src="./assets/screens/responder.jpg" alt="Responder: a gas leak call on the map" width="100%" /></a><br/><sub><b>Responder</b>: a gas leak call on the map</sub></td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top"><a href="https://ffnn-viz.vercel.app"><img src="./assets/screens/ffnn-viz.jpg" alt="FFNN-Viz: A forward pass, step by step" width="100%" /></a><br/><sub><b>FFNN-Viz</b> · A forward pass, step by step</sub></td>
-    <td width="50%" align="center" valign="top"><a href="https://ecofarm-olive.vercel.app"><img src="./assets/screens/ecofarm.jpg" alt="EcoFarm: A harvest coming in" width="100%" /></a><br/><sub><b>EcoFarm</b> · A harvest coming in</sub></td>
+    <td width="50%" align="center" valign="top"><a href="https://ffnn-viz.vercel.app"><img src="./assets/screens/ffnn-viz.jpg" alt="FFNN-Viz: stepping through a forward pass" width="100%" /></a><br/><sub><b>FFNN-Viz</b>: stepping through a forward pass</sub></td>
+    <td width="50%" align="center" valign="top"><a href="https://ecofarm-olive.vercel.app"><img src="./assets/screens/ecofarm.jpg" alt="EcoFarm: some crops growing" width="100%" /></a><br/><sub><b>EcoFarm</b>: some crops growing</sub></td>
   </tr>
 </table>
 
@@ -54,28 +54,28 @@ I'm a student in Rolle, Switzerland, and the founder of <a href="https://www.stu
 
 <table>
   <tr>
-    <td width="50%" valign="top"><a href="https://github.com/alanshen27/bao"><b>Bao</b></a><br/>A local-first AI agent workspace. SQLite on your machine, no cloud, no telemetry.</td>
-    <td width="50%" valign="top"><a href="https://github.com/alanshen27/brainfuck"><b>Brainfuck</b></a><br/>A C++ compiler and interpreter, built to race each other.</td>
+    <td width="50%" valign="top"><a href="https://github.com/alanshen27/bao"><b>Bao</b></a><br/>A local AI agent workspace. Everything is stored in SQLite on your machine.</td>
+    <td width="50%" valign="top"><a href="https://github.com/alanshen27/brainfuck"><b>Brainfuck</b></a><br/>A Brainfuck compiler and interpreter in C++. I wanted to compare how fast each one is.</td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://github.com/alanshen27/qaswarm"><b>QASwarm</b></a><br/>Autonomous Puppeteer agents that generate and run QA tests.</td>
-    <td valign="top"><a href="https://github.com/alanshen27/mantou"><b>Mantou</b></a><br/>Interactive documentation for AI agents.</td>
+    <td valign="top"><a href="https://github.com/alanshen27/qaswarm"><b>QASwarm</b></a><br/>Agents that write QA tests and run them with Puppeteer.</td>
+    <td valign="top"><a href="https://github.com/alanshen27/mantou"><b>Mantou</b></a><br/>Adds interactive bits to docs written for AI agents.</td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://github.com/alanshen27/vexmatcher"><b>VEXMatcher</b></a><br/>Scouting software for VEX Robotics competitions.</td>
-    <td valign="top"><a href="https://github.com/alanshen27/ecofarm"><b>EcoFarm</b></a><br/>A farming game built for the Swiss Lost Food Project.</td>
+    <td valign="top"><a href="https://github.com/alanshen27/vexmatcher"><b>VEXMatcher</b></a><br/>Scouting tool for VEX Robotics. You enter a team number and it shows your next match.</td>
+    <td valign="top"><a href="https://github.com/alanshen27/ecofarm"><b>EcoFarm</b></a><br/>A farming game I made for the Swiss Lost Food Project.</td>
   </tr>
 </table>
 
 ## 🛠️ Tools I Built for Myself
 
-- <a href="https://github.com/alanshen27/ics-formatter"><b>ICS Formatter</b></a>: Cleans up the calendar files my school website exports.
-- <a href="https://github.com/alanshen27/notion-html-to-pdf"><b>Notion HTML to PDF</b></a>: Converts an entire Notion export to PDF in one pass.
-- <a href="https://flux.alanshen.me"><b>Flux</b></a>: Instant file sharing. No login, just upload.
+- <a href="https://github.com/alanshen27/ics-formatter"><b>ICS Formatter</b></a>: Fixes the formatting of the calendar files my school's website exports.
+- <a href="https://github.com/alanshen27/notion-html-to-pdf"><b>Notion HTML to PDF</b></a>: Turns a whole folder of Notion HTML exports into PDFs.
+- <a href="https://flux.alanshen.me"><b>Flux</b></a>: Upload a file, get a code, share it. No account needed.
 
 ## 🎻 Music
 
-Violinist and pianist, and concertmaster of the Le Rosey Orchestra and Camerata. I also write and produce R&B.
+I play violin and piano, and I'm concertmaster of the Le Rosey Orchestra and Camerata. I also write and produce R&B songs.
 
 <p>
   <a href="https://open.spotify.com/album/5X1VFHbrMXlR5hUYKNsODZ"><img src="https://img.shields.io/badge/I'd%20Stay-Spotify-1a1238?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="I'd Stay on Spotify" /></a>
@@ -84,7 +84,7 @@ Violinist and pianist, and concertmaster of the Le Rosey Orchestra and Camerata.
 
 ## 🌊 Off the Keyboard
 
-Swimming (freestyle, IM, and open water in the lake), Sanda, and songwriting. I've also built houses in Oradea, Romania, and wrote a song for the kids there.
+I swim (freestyle, IM, open water in the lake) and do Sanda. I also helped build houses in Oradea, Romania, and wrote a song for the kids there.
 
 ## 🧰 Tech Stack
 
