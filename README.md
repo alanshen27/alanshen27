@@ -33,6 +33,23 @@ I'm a student in Rolle, Switzerland, and the founder of <a href="https://www.stu
   </tr>
 </table>
 
+## 📸 In Action
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top"><a href="https://scribe.study"><img src="./assets/screens/scribe.jpg" alt="Scribe: Picking up a Chemistry HL study session" width="100%" /></a><br/><sub><b>Scribe</b> · Picking up a Chemistry HL study session</sub></td>
+    <td width="50%" align="center" valign="top"><a href="https://github.com/alanshen27/foundry"><img src="./assets/screens/foundry.jpg" alt="Foundry: Firmware, 3D model, and circuit for one device, side by side" width="100%" /></a><br/><sub><b>Foundry</b> · Firmware, 3D model, and circuit for one device, side by side</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top"><a href="https://www.studious.sh"><img src="./assets/screens/studious.jpg" alt="Studious: A teacher dashboard mid-week" width="100%" /></a><br/><sub><b>Studious</b> · A teacher dashboard mid-week</sub></td>
+    <td width="50%" align="center" valign="top"><a href="https://github.com/alanshen27/responder"><img src="./assets/screens/responder.jpg" alt="Responder: A gas leak across the city map" width="100%" /></a><br/><sub><b>Responder</b> · A gas leak across the city map</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top"><a href="https://ffnn-viz.vercel.app"><img src="./assets/screens/ffnn-viz.jpg" alt="FFNN-Viz: A forward pass, step by step" width="100%" /></a><br/><sub><b>FFNN-Viz</b> · A forward pass, step by step</sub></td>
+    <td width="50%" align="center" valign="top"><a href="https://ecofarm-olive.vercel.app"><img src="./assets/screens/ecofarm.jpg" alt="EcoFarm: A harvest coming in" width="100%" /></a><br/><sub><b>EcoFarm</b> · A harvest coming in</sub></td>
+  </tr>
+</table>
+
 ## 🧪 Experiments
 
 <table>
