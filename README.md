@@ -13,6 +13,11 @@
 
 I'm a student in Rolle, Switzerland, and the founder of <a href="https://www.studious.sh">Studious</a> and <a href="https://scribe.study">Scribe</a>. Outside of those I mostly make side projects: small games, dev tools, ML stuff, and whatever I get curious about.
 
+> [!TIP]
+> **[Explore my music & technology portfolio →](https://alanshen.me/music-technology)**
+>
+> Performances, demos, and the process behind **Inkform 拳墨**, **蝶戀花 — Butterflies in Love with Flowers**, and **Regrets**.
+
 ## 🔭 Currently Building
 
 - <a href="https://github.com/alanshen27/museblet"><b>Inkform</b></a>: A webcam instrument where your body movements trigger Chinese instrument sounds and ink-style visuals. Some of the moves come from Sanda.
@@ -79,6 +84,7 @@ I play violin and piano, and I'm concertmaster of the Le Rosey Orchestra and Cam
 
 <p>
   <a href="https://open.spotify.com/album/5X1VFHbrMXlR5hUYKNsODZ"><img src="https://img.shields.io/badge/I'd%20Stay-Spotify-1a1238?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="I'd Stay on Spotify" /></a>
+  <a href="https://alanshen.me/music-technology"><img src="https://img.shields.io/badge/Music%20%26%20Technology-Portfolio-1a1238?style=for-the-badge&logo=applemusic&logoColor=c9c2ff" alt="Music and technology portfolio" /></a>
   <a href="https://alanshen.me/music"><img src="https://img.shields.io/badge/More%20Music-alanshen.me-1a1238?style=for-the-badge&logo=applemusic&logoColor=c9c2ff" alt="More music" /></a>
 </p>
 
