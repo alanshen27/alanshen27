@@ -36,6 +36,9 @@ I'm a student in Rolle, Switzerland, and the founder of <a href="https://www.stu
     <td valign="top"><a href="https://github.com/alanshen27/notate"><b>Notate</b></a><br/>You write a few notes on a piano roll, a Transformer continues them, and my own synth plays it back.</td>
     <td valign="top"><a href="https://github.com/alanshen27/foundry"><b>Foundry</b></a><br/>An AI workspace for hardware projects: brief, CAD, PCB, firmware and a store page.</td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top"><a href="https://github.com/alanshen27/mesh"><b>Mesh</b></a><br/>An AI design workspace: give it a product brief and compare three directions from specialized design agents.</td>
+  </tr>
 </table>
 
 ## 📸 In Action
