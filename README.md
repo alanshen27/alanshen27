@@ -20,24 +20,23 @@ I'm a student in Rolle, Switzerland, and the founder of <a href="https://www.stu
 
 ## 🔭 Currently Building
 
-- <a href="https://github.com/alanshen27/museblet"><b>Inkform</b></a>: A webcam instrument where your body movements trigger Chinese instrument sounds and ink-style visuals. Some of the moves come from Sanda.
-- <a href="https://github.com/alanshen27/aviata"><b>Aviata</b></a>: Uses ADS-B flight data to guess which private jet flights are empty legs. XGBoost plus an LSTM.
-- <a href="https://github.com/alanshen27/responder"><b>Responder</b></a>: A 3D 911 dispatch game. You take calls, some of them fake, and decide which units to send.
-- <a href="https://ffnn-viz.vercel.app"><b>FFNN-Viz</b></a>: A visualiser for small feed-forward neural nets. You can step through a forward pass and see the math.
+- <a href="https://github.com/alanshen27/aviata"><b>Aviata</b></a>: Uses ADS-B flight data to determine empty-leg private jet flights, integrating XGBoost and LSTMs for predictions and indexes.
+- <a href="https://github.com/alanshen27/responder"><b>Responder</b></a>: A 3D 911 dispatch-and-respond game. You can take calls, and decide which units to send without overwhelming your city's emergency response force.
+- <a href="https://ffnn-viz.vercel.app"><b>FFNN-Viz</b></a>: A 2D for small feed-forward neural nets with math theory embedded for both matrix and linear designs.
 
 ## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top"><a href="https://www.studious.sh"><b>Studious</b></a><br/>An LMS for schools. It's been live since 2023.</td>
-    <td width="50%" valign="top"><a href="https://scribe.study"><b>Scribe</b></a><br/>An AI study app. It turns your notes into study sessions, quizzes and guides.</td>
+    <td width="50%" valign="top"><a href="https://www.studious.ac"><b>Studious</b></a><br/>An LMS for schools, with teacher pilots in progress.</td>
+    <td width="50%" valign="top"><a href="https://scribe.study"><b>Scribe</b></a><br/>An AI study app with a more unique take, giving students a path to study rather than simple materials..</td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://github.com/alanshen27/notate"><b>Notate</b></a><br/>You write a few notes on a piano roll, a Transformer continues them, and my own synth plays it back.</td>
-    <td valign="top"><a href="https://github.com/alanshen27/foundry"><b>Foundry</b></a><br/>An AI workspace for hardware projects: brief, CAD, PCB, firmware and a store page.</td>
+    <td valign="top"><a href="https://github.com/alanshen27/notate"><b>Notate</b></a><br/>Music models I've trained to continue and generatively produce MIDI content.</td>
+    <td valign="top"><a href="https://github.com/alanshen27/foundry"><b>Foundry</b></a><br/>"Vibe-coding" for collaborative physical engineering, including live cursors, CAD, PCB editing, and more– an all in one centralised AI workspace.</td>
   </tr>
   <tr>
-    <td colspan="2" valign="top"><a href="https://github.com/alanshen27/mesh"><b>Mesh</b></a><br/>An AI design workspace: give it a product brief and compare three directions from specialized design agents.</td>
+    <td colspan="2" valign="top"><a href="https://github.com/alanshen27/mesh"><b>Mesh</b></a><br/>An AI design workspace to help me assess agent UIUX design capabilities.</td>
   </tr>
 </table>
 
@@ -62,23 +61,20 @@ I'm a student in Rolle, Switzerland, and the founder of <a href="https://www.stu
 
 <table>
   <tr>
-    <td width="50%" valign="top"><a href="https://github.com/alanshen27/bao"><b>Bao</b></a><br/>A local AI agent workspace. Everything is stored in SQLite on your machine.</td>
-    <td width="50%" valign="top"><a href="https://github.com/alanshen27/brainfuck"><b>Brainfuck</b></a><br/>A Brainfuck compiler and interpreter in C++. I wanted to compare how fast each one is.</td>
+    <td width="50%" valign="top"><a href="https://github.com/alanshen27/brainfuck"><b>Brainf*ck</b></a><br/>A Brainf*ck compiler and interpreter in C++, for me to experiment with how much optimisiations affect runtime, and performance in general.</td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/alanshen27/qaswarm"><b>QASwarm</b></a><br/>Agents that write QA tests and run them with Puppeteer.</td>
-    <td valign="top"><a href="https://github.com/alanshen27/mantou"><b>Mantou</b></a><br/>Adds interactive bits to docs written for AI agents.</td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://github.com/alanshen27/vexmatcher"><b>VEXMatcher</b></a><br/>Scouting tool for VEX Robotics. You enter a team number and it shows your next match.</td>
-    <td valign="top"><a href="https://github.com/alanshen27/ecofarm"><b>EcoFarm</b></a><br/>A farming game I made for the Swiss Lost Food Project.</td>
+    <td valign="top"><a href="https://github.com/alanshen27/vexmatcher"><b>VEXMatcher</b></a><br/>Scouting tool for VEX Robotics I made during our Vex Worlds run.</td>
   </tr>
 </table>
 
 ## 🛠️ Tools I Built for Myself
 
 - <a href="https://github.com/alanshen27/ics-formatter"><b>ICS Formatter</b></a>: Fixes the formatting of the calendar files my school's website exports.
-- <a href="https://github.com/alanshen27/notion-html-to-pdf"><b>Notion HTML to PDF</b></a>: Turns a whole folder of Notion HTML exports into PDFs.
+- <a href="https://github.com/alanshen27/notion-html-to-pdf"><b>Notion HTML to PDF</b></a>: Turns a whole folder of Notion HTML exports into PDFs (really useful for my team's Vex notebook).
 - <a href="https://flux.alanshen.me"><b>Flux</b></a>: Upload a file, get a code, share it. No account needed.
 
 ## 🎻 Music
@@ -90,10 +86,6 @@ I play violin and piano, and I'm concertmaster of the Le Rosey Orchestra and Cam
   <a href="https://alanshen.me/music-technology"><img src="https://img.shields.io/badge/Music%20%26%20Technology-Portfolio-1a1238?style=for-the-badge&logo=applemusic&logoColor=c9c2ff" alt="Music and technology portfolio" /></a>
   <a href="https://alanshen.me/music"><img src="https://img.shields.io/badge/More%20Music-alanshen.me-1a1238?style=for-the-badge&logo=applemusic&logoColor=c9c2ff" alt="More music" /></a>
 </p>
-
-## 🌊 Off the Keyboard
-
-I swim (freestyle, IM, open water in the lake) and do Sanda. I also helped build houses in Oradea, Romania, and wrote a song for the kids there.
 
 ## 🧰 Tech Stack
 
