@@ -101,5 +101,5 @@ I play violin and piano, and I'm concertmaster of the Le Rosey Orchestra and Cam
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanshen27&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9c2ff&text_color=b7aee0&langs_count=6" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alanshen27&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9c2ff&text_color=b7aee0&langs_count=6" alt="Top languages" />
 </p>
