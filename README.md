@@ -20,8 +20,8 @@ I'm a student in Rolle, Switzerland, and the founder of <a href="https://www.stu
 
 ## 🔭 Currently Building
 
-- <a href="https://github.com/alanshen27/aviata"><b>Aviata</b></a>: Uses ADS-B flight data to determine empty-leg private jet flights, integrating XGBoost and LSTMs for predictions and indexes.
-- <a href="https://github.com/alanshen27/responder"><b>Responder</b></a>: A 3D 911 dispatch-and-respond game. You can take calls, and decide which units to send without overwhelming your city's emergency response force.
+- <a href="https://aviata-six.vercel.app/"><b>Aviata</b></a>: Uses ADS-B flight data to determine empty-leg private jet flights, integrating XGBoost and LSTMs for predictions and indexes.
+- <a href="https://responder.projects.alanshen.me/"><b>Responder</b></a>: A 3D 911 dispatch-and-respond game. You can take calls, and decide which units to send without overwhelming your city's emergency response force.
 - <a href="https://ffnn-viz.vercel.app"><b>FFNN-Viz</b></a>: A 2D for small feed-forward neural nets with math theory embedded for both matrix and linear designs.
 
 ## 🚀 Featured Projects
